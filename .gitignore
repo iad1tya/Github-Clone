@@ -1,0 +1,52 @@
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled header files
+*.pch
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Build artifacts
+dist/
+build/
+
+# Configuration files
+*.config
+*.ini
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+temp/
+*.swp
+
+# IDE-specific files
+.idea/
+.vscode/
+*.sln
+*.suo
+*.user
+
+# macOS-specific files
+.DS_Store
+
+# Thumbnail cache
+Thumbs.db
